@@ -1,0 +1,111 @@
+{
+    "small": {
+        "1": {
+            "title":        "Beacon Island Lifestyle Resort",
+            "src":          "img/projects/Beacon2007/Small/beaconisland_2007_3_small.jpg",
+            "project_url":  "project_beacon_2007.php"
+        },
+        "2": {
+            "title":        "Beacon Island Lifestyle Resort",
+            "src":          "img/projects/Beacon2007/Small/beaconisland_2007_7_small.jpg",
+            "project_url":  "project_beacon_2007.php"
+        },
+        "3": {
+            "title":        "Cape Sun Hotel",
+            "src":          "img/projects/CapeSun/Small/capesun_4_small.jpg",
+            "project_url":  "project_capesun.php"
+        },
+        "4": {
+            "title":        "Cape Sun Hotel",
+            "src":          "img/projects/CapeSun/Small/capesun_5_small.jpg",
+            "project_url":  "project_capesun.php"
+        },
+        "5": {
+            "title":        "Cape Sun Hotel",
+            "src":          "img/projects/CapeSun/Small/capesun_6_small.jpg",
+            "project_url":  "project_capesun.php"
+        },
+        "6": {
+            "title":        "Cape Sun Hotel",
+            "src":          "img/projects/CapeSun/Small/capesun_7_small.jpg",
+            "project_url":  "project_capesun.php"
+        },
+        "7": {
+            "title":        "Cape Sun Hotel",
+            "src":          "img/projects/CapeSun/Small/capesun_8_small.jpg",
+            "project_url":  "project_capesun.php"
+        },
+        "8": {
+            "title":        "Hazyview",
+            "src":          "img/projects/Hazyview/Small/hazyview_1_small.jpg",
+            "project_url":  "project_hazyview.php"
+        },
+        "9": {
+            "title":        "Pezula Resort Hotel And Spa",
+            "src":          "img/projects/Pezula/Small/pezula_3_small.jpg",
+            "project_url":  "project_pezula.php"
+        },
+        "10": {
+            "title":        "Thuo Gaming",
+            "src":          "img/projects/ThuoGaming/Small/thuo_gaming_2_small.jpg",
+            "project_url":  "project_thuo.php"
+        },
+        "11": {
+            "title":        "Bobbi Brown",
+            "src":          "img/projects/BobbiBrown/Small/bobbi_brown_4_small.jpg",
+            "project_url":  "project_bobbi_brown.php"
+        },
+        "12": {
+            "title":        "Jo Malone",
+            "src":          "img/projects/JoMalone/Small/jo_malone_1_small.jpg",
+            "project_url":  "project_jo_malone.php"
+        },
+        "13": {
+            "title":        "Luminance",
+            "src":          "img/projects/Luminance/Small/luminance_4_small.jpg",
+            "project_url":  "project_luminance.php"
+        }
+    },
+    "large": {
+        "1": {
+            "title":        "Beacon Island Lifestyle Resort",
+            "src":          "img/projects/Beacon2007/Featured/beaconisland_2007_5_featured.jpg",
+            "project_url":  "project_beacon_2007.php"
+        },
+        "2": {
+            "title":        "Cape Royale",
+            "src":          "img/projects/CapeRoyale/Featured/cape_royale_1_featured.jpg",
+            "project_url":  "project_cape_royale.php"
+        },
+        "3": {
+            "title":        "Cape Sun Hotel",
+            "src":          "img/projects/CapeSun/Featured/capesun_1_featured.jpg",
+            "project_url":  "project_capesun.php"
+        },
+        "4": {
+            "title":        "De Waal Hotel",
+            "src":          "img/projects/DeWaal/Featured/dewaal_2_featured.jpg",
+            "project_url":  "project_dewaal.php"
+        },
+        "5": {
+            "title":        "Eastern Boulevard Hotel",
+            "src":          "img/projects/GC_NelsonMandela/Featured/nelson_mandela_1_featured.jpg",
+            "project_url":  "project_nelsonmandela.php"
+        },
+        "6": {
+            "title":        "Hazyview",
+            "src":          "img/projects/Hazyview/Featured/hazyview_3_featured.jpg",
+            "project_url":  "project_hazyview.php"
+        },
+        "7": {
+            "title":        "Pezula Resort Hotel & Spa",
+            "src":          "img/projects/Pezula/Featured/pezula_2_featured.jpg",
+            "project_url":  "project_pezula.php"
+        },
+        "8": {
+            "title":        "Thuo Gaming",
+            "src":          "img/projects/ThuoGaming/Featured/thuo_gaming_4_featured.jpg",
+            "project_url":  "project_thuo.php"
+        }
+    }
+}
