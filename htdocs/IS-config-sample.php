@@ -1,8 +1,6 @@
 <?php
 /**
  * Holds constants/variables used in the configuration of the application.
- *
- * @author Kyle Vermeulen <kyle@fishgate.co.za>
  */
 
 /**
@@ -11,10 +9,10 @@
  *
  */
 //localhost
-define('DB_HOST',       'localhost');
-define('DB_NAME',       'intsolutions');
-define('DB_USERNAME',   'root');
-define('DB_PASSWORD',   '');
+define('DB_HOST',       'your');
+define('DB_NAME',       'settings');
+define('DB_USERNAME',   'go');
+define('DB_PASSWORD',   'here!');
 define('DB_LOGS_TBL',   'contactlogs');
 
 /**
